@@ -1,0 +1,23 @@
+.app-item-image {
+  width: 30%;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+
+.img-and-title-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.app-name {
+  font-family: 'Bree serif';
+  font-size: 25px;
+}
+.app-item-container {
+  text-align: center;
+}
